@@ -67,6 +67,7 @@ h3{
     width:100vw;
     height:98vh;
     padding:50px;
+    background-size: cover;
     background-color: #f5f5f5;
     box-shadow: 0 10px 20px #dbdbdb;
 }
